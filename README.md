@@ -6,3 +6,6 @@ Bayes Rules
 Naive Bayes
 - probabilities of classification based on combined likelihood of words in each class
 - normalised probabilities to wear total is weighted as 1
+
+pipenv install scikit-learn
+pipenv install nltk
